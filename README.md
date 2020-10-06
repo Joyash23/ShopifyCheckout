@@ -1,4 +1,4 @@
-# ShopifyCheckout
+# ShopifyCheckout 24*7
 Bringing automated checkout to your favorite shopify websites
 
 Features:
